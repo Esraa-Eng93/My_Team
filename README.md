@@ -51,11 +51,18 @@ The system aims to:
 2. Navigate to the project folder:
       ```bash
    cd My_Team
+3. Install dependencies (ensure Python 3.8+ is installed):
 
-3.Install dependencies (ensure Python 3.8+ is installed):
-   ```bash
+   # Create a virtual environment (recommended)
+   python3 -m venv venv
+   source venv/bin/activate   # On Windows: venv\Scripts\activate
+
+   # Upgrade pip (optional but recommended)
+   pip install --upgrade pip
+
+   # Install dependencies inside the virtual environment
    pip install -r requirements.txt
-   ```
+
 4.Run the web application using Streamlit:
    ```bash
   streamlit run app.py
