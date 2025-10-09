@@ -25,7 +25,7 @@ The system aims to:
 ---
 
 ## 🛠️ Key Features
-- ✅ Web interface for entering and visualizing patient data  
+- ✅ Web interface for entering and visualizing student data  
 - ✅ AI-powered predictions using **Decision Tree** models  
 - ✅ Natural Language Processing for Arabic medical text using **AraBERT**  
 - ✅ Interactive dashboards and result visualization  
@@ -44,6 +44,7 @@ The system aims to:
 ---
 
 ## 🧪 How to Run the Project
+**Note:** The commands above are for Linux/macOS. 
 1. Clone the repository:
    ```bash
    git clone git@github.com:Esraa-Eng93/My_Team.git
