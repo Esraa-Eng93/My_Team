@@ -53,15 +53,19 @@ The system aims to:
    cd My_Team
 3. Install dependencies (ensure Python 3.8+ is installed):
 
-   # Create a virtual environment (recommended)
+   Create a virtual environment (recommended)
+    ```bash
    python3 -m venv venv
    source venv/bin/activate   # On Windows: venv\Scripts\activate
-
-   # Upgrade pip (optional but recommended)
+   ```
+   Upgrade pip (optional but recommended)
+   ```bash
    pip install --upgrade pip
-
-   # Install dependencies inside the virtual environment
+   ```
+   Install dependencies inside the virtual environment
+   ```bash
    pip install -r requirements.txt
+    ```
 
 4.Run the web application using Streamlit:
    ```bash
