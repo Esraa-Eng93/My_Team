@@ -1,7 +1,7 @@
 # 🩺 CuraAI — Hackathon Project
 
 ## 🧠 Project Overview
-**CuraAIL** is a web-based healthcare solution developed during the **startAD x Google.org Hackathon**.  
+**CuraAI** is a web-based healthcare solution developed during the **startAD x Google.org Hackathon**.  
 Our platform leverages **Artificial Intelligence (AI)**, including **Decision Trees** for structured data analysis and **AraBERT** for processing Arabic medical text, to provide intelligent recommendations for healthcare decision-making.
 
 ---
