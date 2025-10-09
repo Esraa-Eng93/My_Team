@@ -37,27 +37,17 @@ To create an interactive website that allows medical professionals to input pati
    git clone git@github.com:Esraa-Eng93/My_Team.git
 
 2. Navigate to the project folder:
+      ```bash
    cd My_Team
-   
+
 3.Install dependencies (ensure Python 3.8+ is installed):
-  pip install -r requirements.txt
-  
-4. Run the web application using Streamlit:
+   ```bash
+pip install -r requirements.txt
+
+4.Run the web application using Streamlit:
+   ```bash
   streamlit run app.py
 
 5. The browser will automatically open the website, or visit:
+   ```bash
    http://localhost:8501
-
-
-
-
-
-
-
-
-
-
-
-
-
-
