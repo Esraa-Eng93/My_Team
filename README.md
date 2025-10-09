@@ -44,7 +44,7 @@ The system aims to:
 ---
 
 ## 🧪 How to Run the Project
-**Note:** The commands above are for Linux/macOS. 
+**Note:** The commands below are for Linux/macOS. 
 1. Clone the repository:
    ```bash
    git clone git@github.com:Esraa-Eng93/My_Team.git
