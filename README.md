@@ -1,4 +1,4 @@
-# 🩺 CuraAI — Hackathon Project
+# 🩺 CuraAI — Hackathon startAD Project
 
 ## 🧠 Project Overview
 **CuraAI** is a web-based student well-being solution developed during the **startAD x Google.org Hackathon**.  
