@@ -1,13 +1,26 @@
 # 🩺 CuraAI — Hackathon Project
 
 ## 🧠 Project Overview
-**CuraAI** is a web-based healthcare solution developed during the **startAD x Google.org Hackathon**.  
-Our platform leverages **Artificial Intelligence (AI)**, including **Decision Trees** for structured data analysis and **AraBERT** for processing Arabic medical text, to provide intelligent recommendations for healthcare decision-making.
+**CuraAI** is a web-based student well-being solution developed during the **startAD x Google.org Hackathon**.  
+
+Our platform leverages **Artificial Intelligence (AI)** to support student monitoring and intervention:  
+- **Decision Trees** analyze structured student data such as attendance, academic performance, well-being scores, counseling sessions, and behavior incidents.  
+- The AI generates **Recommended Actions** for school staff to take, ranging from routine monitoring to immediate referral for support.  
+
+This system helps schools identify students at risk and take timely, data-driven actions to improve student well-being.
+
 
 ---
 
 ## 🎯 Objective
-To create an interactive website that allows medical professionals to input patient data, receive AI-driven predictions, and visualize insights in a user-friendly dashboard.
+To create an interactive web platform that allows school staff to input or access student data,  
+analyze it using AI models, and receive actionable recommendations to support student well-being.  
+
+The system aims to:  
+- Identify students at risk based on attendance, academic performance, behavior, and well-being scores.  
+- Suggest targeted interventions, ranging from routine monitoring to urgent referral.  
+- Help schools make **data-driven decisions** to improve student outcomes.
+
 
 ---
 
