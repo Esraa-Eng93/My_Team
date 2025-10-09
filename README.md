@@ -23,12 +23,11 @@ To create an interactive website that allows medical professionals to input pati
 ## 🧩 Tech Stack
 | Category | Technology |
 |-----------|-------------|
-| Frontend | HTML, CSS, JavaScript / Streamlit |
-| Backend | Python (Flask / FastAPI optional) |
+| Frontend | HTML, CSS, Streamlit (Python-based Web Interface) |
+| Backend | Python |
 | Machine Learning | Scikit-learn (Decision Tree), HuggingFace Transformers (AraBERT) |
-| Database | SQLite / PostgreSQL |
+| Data | Synthetic data generated with Pandas & NumPy |
 | Tools | Git, Google Drive, Google Colab |
-
 ---
 
 ## 🧪 How to Run the Project
@@ -42,13 +41,13 @@ To create an interactive website that allows medical professionals to input pati
 
 3.Install dependencies (ensure Python 3.8+ is installed):
    ```bash
-pip install -r requirements.txt
-```
+   pip install -r requirements.txt
+   ```
 4.Run the web application using Streamlit:
    ```bash
   streamlit run app.py
-```
+   ```
 5. The browser will automatically open the website, or visit:
    ```bash
    http://localhost:8501
-```
+   ```
